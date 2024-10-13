@@ -7,3 +7,6 @@ This project uses computer vision and machine learning to monitor student focus 
 - **Face and Eye Tracking**: Utilizes MediaPipe for real-time face and eye landmark detection.
 - **Focus Scoring**: Calculates a focus score based on gaze direction and blink detection.
 - **Real-Time Analysis**: Processes webcam input or uploaded videos to assess concentration levels.
+
+![alt text](image-1.png)
+![alt text](image.png)
