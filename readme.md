@@ -8,5 +8,5 @@ This project uses computer vision and machine learning to monitor student focus 
 - **Focus Scoring**: Calculates a focus score based on gaze direction and blink detection.
 - **Real-Time Analysis**: Processes webcam input or uploaded videos to assess concentration levels.
 
-![alt text](image-1.png)
-![alt text](image.png)
+https://github.com/user-attachments/assets/dede219c-dfbd-4810-9eac-b4ed0d447695
+
