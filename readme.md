@@ -1,4 +1,4 @@
-# AI-Platform-for-Focus-Analysis-RKKZ-
+# AI Platform for Focus Analysis'RKKZ'
 
 This project uses computer vision and machine learning to monitor student focus during video lectures. It analyzes facial landmarks and eye movements to compute a focus score based on the student's gaze direction and blink rate.
 
